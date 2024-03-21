@@ -114,7 +114,7 @@ pyarrow-hotfix==0.6
 pycparser==2.21
 pydantic==2.5.3
 pydantic_core==2.14.6
-Pygments==2.17.2
+Pygments
 pyparsing==3.1.1
 pysbd==0.3.4
 python-dateutil==2.8.2
